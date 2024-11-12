@@ -1,2 +1,3 @@
 Graphics engine created as a project for a class of the University of Sherbrooke - IMN529. Collaborated with Abdoul Malick Oumarou Allassane.
 
+So, it is a basic graphics engine in C#, which goal is to produce simple images. We are using many concepts such as global illumination, depth of view, geometric transforms, usage of a ray casting, etc. Even if the files are named in French, they can be easily translated in English and u can also translate the comments in all the .cs files of the project. If you have questions on how it works, i can respond to you. It is still in development and will be finished at the end of December 2024.
